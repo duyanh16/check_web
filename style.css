@@ -1,0 +1,13 @@
+
+#student img{
+    width: 150px;
+    border-radius: 100%;
+}
+
+#student h1,#student h3,#student p,#student button{
+    margin-bottom: 10px;
+}
+
+.student-detail{
+    border: 1px solid black;
+}
